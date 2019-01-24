@@ -11,5 +11,6 @@
 
 [漫谈数据结构(三)——队列](https://www.you3xuan.top/2019/01/20/dataStructure5/#more)
 
-[漫谈数据结构(三)——串](https://www.you3xuan.top/2019/01/22/dataStructure6/#more)
+[漫谈数据结构(四)——串](https://www.you3xuan.top/2019/01/22/dataStructure6/#more)
 
+[漫谈数据结构(四)——字符串的模式匹配](https://www.you3xuan.top/2019/01/24/dataStructure7/#more)

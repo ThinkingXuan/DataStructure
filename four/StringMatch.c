@@ -119,5 +119,6 @@ int main(){
 	printf("KMPÀ„∑®£∫\n");
 	pos = dynamicSearch(s,p);
 	printf("pos = %d\n",pos);
+	
 	return 0;
 } 
